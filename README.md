@@ -6,7 +6,7 @@ Este repositório contém uma coleção organizada de exercícios de programaç�
 
 Os exercícios estão organizados em pastas por categoria:
 
-### 📚 01_basico/
+### 📚 01_basico
 Exercícios introdutórios que abordam conceitos fundamentais de programação.
 
 - **01_hello_world.c** - Primeiro programa em C, exibe mensagem na tela
@@ -17,7 +17,7 @@ Exercícios introdutórios que abordam conceitos fundamentais de programação.
 - **06_calculo_media.c** - Calcula a média aritmética de duas notas
 - **07_media_ponderada.py** - Calcula média ponderada com pesos diferentes
 
-### 🔀 02_condicionais/
+### 🔀 02_condicionais
 Exercícios que utilizam estruturas condicionais (if/else) para tomada de decisões.
 
 - **01_maior_numero.c** - Determina o maior entre dois números
@@ -31,7 +31,7 @@ Exercícios que utilizam estruturas condicionais (if/else) para tomada de decis�
 - **09_verificacao_senha.py** - Verifica se uma senha está correta
 - **10_urna_eletronica.c** - Simula uma urna eletrônica simples
 
-### 🔄 03_repeticao/
+### 🔄 03_repeticao
 Exercícios que utilizam estruturas de repetição (while, for) para processamento iterativo.
 
 - **01_soma_quadrados.py** - Calcula a soma dos quadrados de 1 até N
@@ -40,30 +40,46 @@ Exercícios que utilizam estruturas de repetição (while, for) para processamen
 - **04_soma_multiplos.py** - Soma múltiplos de 3 e 5 até N
 - **05_estatisticas_funcionarios.c** - Calcula estatísticas de funcionários
 - **06_sistema_ingressos.c** - Sistema de vendas de ingressos por faixa etária
+- **07_progressao_aritmetica.py** - Gera progressão aritmética
+- **08_conversao_fahrenheit_celsius.c** - Converte temperaturas de Fahrenheit para Celsius
+- **09_divisoes_sucessivas.c** - Realiza divisões sucessivas por 2
+- **10_calculo_pi.py** - Calcula Pi usando série matemática
 
-### ⚙️ 04_funcoes/
+### ⚙️ 04_funcoes
 Exercícios que demonstram o uso de funções para modularização de código.
 
 - **01_funcao_potencia.c** - Função para calcular potência de um número
 - **02_produto_elementos.py** - Função para produto elemento a elemento de listas
 - **03_filtro_numeros_pares.py** - Função para filtrar números pares de uma lista
 - **04_gerador_tabuada.py** - Função para gerar tabuadas de múltiplos números
+- **05_operacoes_listas.py** - Demonstra operações com listas em Python
+- **06_soma_media_slice.py** - Soma, média e slice de listas
+- **07_funcao_fatorial.py** - Função para cálculo de fatorial
 
 ### 📊 05_estruturas_dados/
 Exercícios que trabalham com estruturas de dados como vetores e structs.
 
 - **01_cadastro_aluno.c** - Sistema de cadastro usando struct
 - **02_vetor_maior_media.c** - Trabalha com vetores e calcula elementos maiores que a média
+- **03_cadastro_produtos.c** - Cadastro de produtos com busca por preço
+- **04_sistema_alunos_estatisticas.c** - Sistema de alunos com estatísticas da turma
+- **05_cadastro_dez_alunos.c** - Cadastro de 10 alunos com dados completos
+- **06_cadastro_petshop.c** - Cadastro de pets com informações básicas
 
-### 📄 06_arquivos/
+### 📄 06_arquivos
 Exercícios que demonstram manipulação de arquivos e processamento de dados.
 
 - **01_analise_brasileirao.py** - Análise de dados do Brasileirão a partir de arquivo CSV
 
-### 🎯 07_matrizes/
+### 🎯 07_matrizes
 Exercícios que trabalham com matrizes e arrays bidimensionais.
 
 - **01_tabuleiro_xadrez.c** - Cria e exibe um tabuleiro de xadrez usando matriz
+- **02_tabuleiro_xadrez_pecas.c** - Tabuleiro de xadrez com peças posicionadas
+- **03_tabuleiro_xadrez_padrao.c** - Tabuleiro de xadrez com padrão alternado
+- **04_calculo_diferenca_material.c** - Calcula diferença material no xadrez
+- **05_matriz_quadrada_asteriscos.c** - Matriz quadrada de asteriscos
+- **06_matriz_retangular_asteriscos.py** - Matriz retangular de asteriscos
 
 ## 🚀 Como Usar
 
@@ -107,7 +123,7 @@ Esta coleção de exercícios abrange os seguintes conceitos fundamentais:
 
 ## 🛠️ Ferramentas Utilizadas
 
-- **Code Runner do Moodle** - A maioria dos exercícios foi desenvolvida na plataforma Moodle da disciplina de Algoritmos e Lógica de Programação do Instituto Federal de São Paulo (IFSP)
+- **Code Runner do Moodle** - A maioria dos exercícios foi desenvolvida na plataforma Moodle durante as aulas da disciplina de Algoritmos e Lógica de Programação do Instituto Federal de São Paulo (IFSP)
 
 ---
 
